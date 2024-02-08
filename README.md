@@ -22,6 +22,7 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/><br/><br/> 
 <img align="left" src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&badgeColor=010101"/>
 <br/>
+<img align="left" src="https://img.shields.io/badge/Cron-Job-chartreuse.svg?style=for-the-badge&logo=Cron-Job&logoColor=white"/>
 
 # 📋 Programming Languages
 
@@ -38,9 +39,11 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 <img align="left" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+ 
 <br/>
-# 🌎 General concept
+<br/>
+
+# 📚 Frameworks and Libraries
 
 <img align="left" src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=OOP&logoColor=blue"/>
 <img align="left" src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=Git&logoColor=white"/> 
@@ -50,4 +53,3 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 <img align="left" src="https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JWT&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Swagger-chartreuse.svg?style=for-the-badge&logo=Swagger&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Cron-Job-chartreuse.svg?style=for-the-badge&logo=Cron-Job&logoColor=white"/>
