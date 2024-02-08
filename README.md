@@ -31,7 +31,6 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 
 <br/>
 <br/>
-<br/>
 
 # 💾 Databases and ORM
 
@@ -40,6 +39,7 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
+<br/>
 # 🌎 General concept
 
 <img align="left" src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=OOP&logoColor=blue"/>
