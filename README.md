@@ -43,7 +43,7 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 <br/>
 <br/>
 
-# 📚 Frameworks and Libraries
+# 🌎 General
 
 <img align="left" src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=OOP&logoColor=blue"/>
 <img align="left" src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=Git&logoColor=white"/> 
