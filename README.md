@@ -19,10 +19,12 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>  
-<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/><br/><br/> 
+<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/> 
 <img align="left" src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&badgeColor=010101"/>
-<br/>
+ 
 <img align="left" src="https://img.shields.io/badge/Cron-Job-chartreuse.svg?style=for-the-badge&logo=Cron-Job&logoColor=white"/>
+<br/>
+<br/>
 
 # 📋 Programming Languages
 
