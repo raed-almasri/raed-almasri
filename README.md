@@ -12,12 +12,6 @@ Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # 📚 Frameworks and Libraries
 
